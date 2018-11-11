@@ -5,3 +5,9 @@ This assignment did not use a sql database, but rather the data was hard-coded i
 The routes were a bit tricky but ultimately I managed to stumble into a way to get them to work.
 
 I was fully unclear on the Heroku aspect of this assignment and thus will include screen shots as in previous assignments.
+
+Once I run the "node server.js" command from the terminal, I then ensure that the server is listening on the designated port (3000) for me in this assignment.
+
+Then I went to the local host at port 3000 to see the survey from the html.
+
+
